@@ -20,7 +20,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd alfajor.jpg
+map_Kd Plataforma/alfajor.jpg
 
 newmtl Material.002_NONE
 Ns 96.078431
@@ -41,7 +41,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd brushed-stainless-steel-texture-metallic-feel-metal-texture-brushed-stainless-steel-background-image-brushed-stainless-steel-background-brushed-stainless-steel-texture-seamless.jpg
+map_Kd Plataforma/brushed-stainless-steel-texture-metallic-feel-metal-texture-brushed-stainless-steel-background-image-brushed-stainless-steel-background-brushed-stainless-steel-texture-seamless.jpg
 
 newmtl Material.003_NONE
 Ns 96.078431
